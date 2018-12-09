@@ -4,11 +4,15 @@ The project - Free Virtual Piano System - derives from a whimsy dream in my chil
 
 The system contains a binocular camera, a paper with standard piano graphic and a computing platform:
 
-![system structure](src/System_structure.png)
+<center>
+<img src="../src/System_structure.png" width="25%" height="25%" />
+Figure 1. Lena
+</center>
+
 
 I use Binocular Stereo Vision, Elliptical Skin Model, Block Matching algorithm, piano pattern recognition, and camera demarcation. Here is the algorithm flow:
 
-![piano_algorithm](src/Piano.png)
+![piano_algorithm](../src/Piano.png)
 
 Specially, this peoject have several interesting problem, let me share them with you:
 - [x] The key pressing motion is slight, how to detect it?
