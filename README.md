@@ -28,7 +28,7 @@ Additionly, I love digital painting, you can see my work in [My art work](#my-ar
 <video src="src/piano.mp4" width="320" height="200" controls preload></video>
 
 3.See more:
-[Free Virtual Piano System](url)
+[Free Virtual Piano System](/pages/Page_1.md)
 
 ### Mono 3D Detection -part 1-
 1. General goal:
