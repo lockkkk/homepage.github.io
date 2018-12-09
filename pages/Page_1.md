@@ -12,7 +12,7 @@ The system contains a binocular camera, a paper with standard piano graphic and 
 I use Binocular Stereo Vision, Elliptical Skin Model, Block Matching algorithm, piano pattern recognition, and camera demarcation. Here is the algorithm flow:
 
 
-<img src="../src/Piano.png "  width="50%" />
+<img src="../src/Piano.png "  width="100%" />
 
 
 
