@@ -1,4 +1,11 @@
 #remote_theme: chuanqisun/primer
+description:    Welcome, this is Jiaixn's home site, have fun :)
 layout: post
 title: "Jiaxin's Site"
 theme: jekyll-theme-dinky
+
+menu:
+  - title: 'Home'
+    url: '/'
+  - title: 'Fork'
+    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
