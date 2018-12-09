@@ -18,55 +18,36 @@ Additionly, I love digital painting, you can see my work in [My art work](#my-ar
 ## My Project
 
 ### Free Virtual Piano System
-1. General goal:
-- translate hand movement on paper with printed piano keys to music. 
-
-2. Demo: 
+- Translate hands movement on paper with printed piano keys to music. [Detail](/pages/Page_1.md)
+<img src="/src/System_structure.png" width="50%" />
 ```diff
 - Please play with high volume
 ```
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <video src="src/piano.mp4" width="320" height="200" controls preload></video>
 
-3.See more:
-[Free Virtual Piano System](/pages/Page_1.md)
 
-### Mono 3D Detection -part 1-
-1. General goal:
-- Combining neural network’s estimates with geometric constraints provided by a 2D object bounding box to produce a complete 3D bounding box. 
 
-2. Structure:
-![Geometry](src/Geometry.png)
+### Mono 3D Detection
+- Combining neural network’s estimates with geometric constraints provided by a 2D object bounding box to produce a complete 3D bounding box. [Detail](/pages/Page_2.md)
 
-3.See more:
-[Mono 3D Detection](url)
+![Geometry](src/result_2.png)
 
-### Mono 3D Detection -part 2-
-1. General goal:
-- Padding image to get out boundary 2D box, to solve truncation problem.
-- Using re-projection error to realize bundle adjustment in training loss. Realize end-to-end training.
 
-2. Structure:
-![Re-projection](src/Multi_task.png)
 
 ### Semiautomatic annotation
-1. General goal:
 - Use CAD models to generate key-point label on real images in KITTI dataset for future network training.
 - Generate visible type for each labeled point.
+- [Detail](/pages/Page_3.md)
 
-2. Sample:
 ![Semiautomatic_annotation](src/Annotation.png)
 
-3.See more:
-[Semiautomatic annotation work](url)
 
 ### Bird-view lane detection
-1. General goal:
 - Using vanishing point to adaptively transform image into bird view.
 - Detecting lane lines in bird view using FCN-based neural network architecture.
 - Tracking the lane lines by semi-dense direct visual odometry and Kalman Filter.
 
-2. Demo:
 ![Lane_detection&tracking](src/Annotation.png)
 
 ## My Artwork
