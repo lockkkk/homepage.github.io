@@ -1,4 +1,4 @@
-remote_theme: aron-bordin/neo-hpstr-jekyll-theme
+#remote_theme: mmistakes/minimal-mistakes
 description:    Welcome, this is Jiaixn's homepage, have fun :)
 layout: post
 title: "Jiaxin's Site"
@@ -9,12 +9,41 @@ title: "Jiaxin's Site"
 #    url: '/'
 #  - title: 'Fork'
 #    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-    
-owner:
-  name:           Jiaxin Lin
-  email:          jx_linlin@126.com
-  
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-remote-theme
   - jekyll-include-cache
+  
+author:
+  name   : "Jiaxin Lin"
+  avatar : "src/IMG_8071.PNG"
+  email  : "jx_linlin@126.com"
+  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
