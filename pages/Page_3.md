@@ -7,9 +7,9 @@ In this project, I use CAD models to generate 2D point coordinates on real image
 
 ![system_structure](../src/Annotation_structure.png)
 
-<img src="../src/aresult_1.png" width="80%" />
+<img src="../src/aresult_1.png" width="100%" />
 
-<img src="../src/aresult_2.png" width="80%" />
+<img src="../src/aresult_2.png" width="100%" />
 
-<img src="../src/aresult_3.png" width="80%" />
+<img src="../src/aresult_3.png" width="100%" />
 
