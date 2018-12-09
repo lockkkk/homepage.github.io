@@ -1,50 +1,15 @@
+#remote_theme: mmistakes/minimal-mistakes
+description:    Welcome, this is Jiaixn's homepage, have fun :)
+layout: post
+title: "Jiaxin's Site"
+theme: jekyll-theme-dinky
 
-  # Site settings
-title: 'Demo for jekyll-remote-theme with theme jekyll-uno'
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll - used via jekyll-remote-theme'
-url: ''
-baseurl: '/jekyll-uno-remote-theme-demo'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
-
-remote_theme: matthiaslischka/jekyll-uno
-
-author:
-  name: 'Matthias Lischka'
-  #email: 
-  #twitter_username: 
-  #facebook_username: 
-  github_username: matthiaslischka
-  #linkedin_username:  
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
-
-sass:
-    sass_dir: _sass
-    style: compressed
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
+#menu:
+#  - title: 'Home'
+#    url: '/'
+#  - title: 'Fork'
+#    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+    
+owner:
+  name:           Jiaxin Lin
+  email:          jx_linlin@126.com
