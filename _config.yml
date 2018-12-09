@@ -1,2 +1,4 @@
-remote_theme: chuanqisun/primer
-#theme: jekyll-theme-dinky
+#remote_theme: chuanqisun/primer
+layout: post
+title: "Jiaxin's Site"
+theme: jekyll-theme-dinky
