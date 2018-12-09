@@ -11,7 +11,7 @@ Besides, I also dive into the field of networking and system, now I am a researc
 - translate hand movement on paper with printed piano keys to music. 
 
 2. Demo:
-![Magic Piano](src/Vision_Project slides.mp4)
+![Magic Piano](src/piano.mp4)
 
 3.Detail:
 [Link](url)
