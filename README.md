@@ -6,27 +6,53 @@ Besides, I also dive into the field of networking and system, now I am a researc
 
 ## My Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-### 3D Mono Detection -part 1-
-
+### Free Virtual Piano System
 1. General goal:
-Combining neural network’s estimates with geometric constraints provided by a 2D object bounding box to produce a complete 3D bounding box. 
+- translate hand movement on paper with printed piano keys to music. 
 
-**Bold** and _Italic_ and `Code` text
+2. Demo:
+![Magic Piano](src/Vision_Project slides.mp4)
 
-[Link](url) and ![Image](src)
-```
+3.Detail:
+[Link](url)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Mono 3D Detection -part 1-
+1. General goal:
+- Combining neural network’s estimates with geometric constraints provided by a 2D object bounding box to produce a complete 3D bounding box. 
 
-### Jekyll Themes
+2. Structure:
+![Geometry](src/Geometry.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lockkkk/homepage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3.Detail:
+[Link](url)
 
-### Support or Contact
+### Mono 3D Detection -part 2-
+1. General goal:
+- Padding image to get out boundary 2D box, to solve truncation problem.
+- Using re-projection error to realize bundle adjustment in training loss. Realize end-to-end training.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. Structure:
+![Re-projection](src/Multi_task.png)
+
+### Semiautomatic annotation work
+1. General goal:
+- Use CAD models to generate key-point label on real images in KITTI dataset for future network training.
+- Generate visible type for each labeled point.
+
+2. Sample:
+![Semiautomatic_annotation](src/Annotation.png)
+
+3.Detail:
+[Link](url)
+
+### Bird-view lane detection
+1. General goal:
+- Using vanishing point to adaptively transform image into bird view.
+- Detecting lane lines in bird view using FCN-based neural network architecture.
+- Tracking the lane lines by semi-dense direct visual odometry and Kalman Filter.
+
+
+2. Demo:
+![Lane_detection&tracking](src/Annotation.png)
+
+
