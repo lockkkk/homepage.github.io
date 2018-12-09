@@ -1,4 +1,2 @@
-
-layout: post
-title: Jiaxin Lin's Site
-theme: jekyll-theme-dinky
+remote_theme: aron-bordin/neo-hpstr-jekyll-theme
+#theme: jekyll-theme-dinky
