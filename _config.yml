@@ -1,8 +1,8 @@
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 description:    Welcome, this is Jiaixn's homepage, have fun :)
 layout: post
 title: "Jiaxin's Site"
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
 
 #menu:
 #  - title: 'Home'
@@ -13,3 +13,8 @@ theme: jekyll-theme-dinky
 owner:
   name:           Jiaxin Lin
   email:          jx_linlin@126.com
+  
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-include-cache
