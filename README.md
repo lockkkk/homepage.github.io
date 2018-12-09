@@ -11,6 +11,7 @@ Besides, I also dive into the field of networking and system, now I am a researc
 - translate hand movement on paper with printed piano keys to music. 
 
 2. Demo:
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <video src="src/piano.mp4" width="320" height="200" controls preload></video>
 
 3.Detail:
