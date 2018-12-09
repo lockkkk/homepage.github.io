@@ -1,3 +1,8 @@
+    ---
+    layout: post
+    title: Jiaxin Lin's Site
+    ---
+
 ## About me
 
 Hi, I'm Jiaxin. I'm currently a undergraduate student in Beijing, China. Specifically, I am interested in high-level, symbolic processes of **image recognition** and interpretation that accurately model the way people interact with the world.
