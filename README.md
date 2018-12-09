@@ -19,10 +19,13 @@ Additionly, I love digital painting, you can see my work in [My art work](#my-ar
 
 ### Free Virtual Piano System
 - Translate hands movement on paper with printed piano keys to music. [Detail](/pages/Page_1.md)
+
 <img src="/src/System_structure.png" width="50%" />
+
 ```diff
 - Please play with high volume
 ```
+
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <video src="src/piano.mp4" width="320" height="200" controls preload></video>
 
