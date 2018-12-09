@@ -1,4 +1,6 @@
 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
 ## About me
 
 Hi, I'm Jiaxin. I'm currently a undergraduate student in Beijing, China. Specifically, I am interested in high-level, symbolic processes of **image recognition** and interpretation that accurately model the way people interact with the world.
@@ -26,7 +28,6 @@ Additionly, I love digital painting, you can see my work in [My art work](#my-ar
 - Please play with high volume
 ```
 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <video src="src/piano.mp4" width="320" height="200" controls preload></video>
 
 
