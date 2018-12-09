@@ -1,8 +1,18 @@
-## About me
+## Free Virtual Piano System
 
-Hi, I'm Jiaxin. I'm currently a undergraduate student in Beijing, China. Specifically, I am interested in high-level, symbolic processes of **image recognition** and interpretation that accurately model the way people interact with the world.
+The project - Free Virtual Piano System - derives from a whimsy dream in my childhood: in the magic world, people play the music everywhere, on the wall, on the table or even in the air. My goal was to translate hand movement on paper with printed piano keys into actual music.
 
-Besides, I also dive into the field of **networking** and **system**, now I am a research intern in the Network Research group of Microsoft Research Asia (MSRA). My CV is available on the right side (updated Dec 2018).
+The system contains a binocular camera, a paper with standard piano graphic and a computing platform:
 
-Additionly, I love digital painting, you can see my work in [My art work](#my-artwork)  :)
+![system structure](src/System_structure.png)
+
+I use Binocular Stereo Vision, Elliptical Skin Model, Block Matching algorithm, piano pattern recognition, and camera demarcation. Here is the algorithm flow:
+
+![piano_algorithm](src/Piano.png)
+
+Specially, this peoject have several interesting problem, let me share them with you:
+- [x] The key pressing motion is slight, how to detect it?
+- [x] If we keep pressing on the piano key, the piano will only ring once, how to realize this feature?
+- [x] How to avoid the occlusion from hands when we detecting piano key?
+- [x] ...
 
