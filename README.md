@@ -1,7 +1,7 @@
-    ---
-    layout: post
-    title: Jiaxin Lin's Site
-    ---
+---
+layout: post
+title: Jiaxin Lin's Site
+---
 
 ## About me
 
