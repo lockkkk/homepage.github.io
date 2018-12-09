@@ -1,25 +1,14 @@
+#remote_theme: mmistakes/minimal-mistakes
+description:    Welcome, this is Jiaixn's homepage, have fun :)
+layout: post
+title: "Jiaxin's Site"
+theme: jekyll-theme-dinky
 
-title: MM Remote Theme Test
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: /mm-remote-theme-test
-url: https://mmistakes.github.io
-twitter_username: mmistakes
-github_username: mmistakes
-minimal_mistakes_skin: dark
-
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+#menu:
+#  - title: 'Home'
+#    url: '/'
+#  - title: 'Fork'
+#    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
 
 # Plugins (previously gems:)
 plugins:
@@ -28,44 +17,10 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  
 author:
-  name   : "Michael Rose"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  email  : # optional
-  uri    : "https://mademistakes.com"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-
-
-
-
-
-
-
-
+  name   : "Jiaxin Lin"
+  avatar : "src/IMG_8071.PNG"
+  email  : "jx_linlin@126.com"
