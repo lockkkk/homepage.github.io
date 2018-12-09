@@ -4,15 +4,14 @@ Hi, I'm Jiaxin. I'm currently a undergraduate student in Beijing, China. Specifi
 
 Besides, I also dive into the field of **networking** and **system**, now I am a research intern in the Network Research group of Microsoft Research Asia (MSRA). My CV is available on the right side (updated Dec 2018).
 
-Additionly, I love digital painting, you can see my work in [Jiaxin's library](url) :)
+Additionly, I love digital painting, you can see my work in [My art work](#my-artwork)  :)
 
 - [My Project](#my-project) 
-- [Preface](#preface) 
-- [Design idea and innovation point](#design-idea-and-innovation-point) 
-- [Background](#background) 
-- [Design inspirations](#design-inspirations) 
-- [Innovation point](#innovation-point) 
-- [Developmental vision](#developmental-vision) 
+  - [Free Virtual Piano System](#free-virtual-piano-system) 
+  - [Mono 3D Detection](#mono-3d-detection) 
+  - [Semiautomatic annotation](#semiautomatic-annotation) 
+  - [Bird-view lane detection](#bird-view-lane-detection) 
+- [My artwork](#my-artwork) 
 
 
 ## My Project
@@ -49,7 +48,7 @@ Additionly, I love digital painting, you can see my work in [Jiaxin's library](u
 2. Structure:
 ![Re-projection](src/Multi_task.png)
 
-### Semiautomatic annotation work
+### Semiautomatic annotation
 1. General goal:
 - Use CAD models to generate key-point label on real images in KITTI dataset for future network training.
 - Generate visible type for each labeled point.
