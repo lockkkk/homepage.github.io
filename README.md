@@ -1,25 +1,20 @@
-## Welcome to Jiaxin's Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/lockkkk/homepage.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Jiaxin. I'm currently a undergraduate student in BeiJing. I am interest in computer vision, image undersatnding. Specifically, I am interested in high-level, symbolic processes of image recognition and interpretation that accurately model the way people interact with the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Besides, I also dive into the field of networking and system, now I am a research intern in the Network Research group of Microsoft Research Asia (MSRA). My CV is available on the right side (updated Dec 2018).
 
-### Markdown
+## My Project
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 3D Mono Detection -part 1-
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. General goal:
+Combining neural network’s estimates with geometric constraints provided by a 2D object bounding box to produce a complete 3D bounding box. 
 
 **Bold** and _Italic_ and `Code` text
 
