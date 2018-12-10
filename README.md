@@ -52,13 +52,7 @@ Additionly, I love digital painting, you can see my work in [My art work](https:
 - Detecting lane lines in bird view using FCN-based neural network architecture.
 - Tracking the lane lines by semi-dense direct visual odometry and Kalman Filter.
 
-<video id="bgVideo" preload="true" autoplay loop muted class="hidden-xs hidden-sm">
-    <!-- Safari -->
-    <source src="https://drive.google.com/open?id=1oNh8-YWWeFvdKS5tyh-5M_R0FrNNQb4U" type='video/mp4'/>
-    <!-- Chrome and FF -->
-    <source src="https://drive.google.com/open?id=1oNh8-YWWeFvdKS5tyh-5M_R0FrNNQb4U" type='video/webm'/>
-</video>
-<video src="https://drive.google.com/open?id=1oNh8-YWWeFvdKS5tyh-5M_R0FrNNQb4U" poster="lane_detection_poster.png" width="620" height="188" controls preload></video>
+![Bird-view lane detection](src/lane_detection_poster.png)
 
 
 ### Glane-On-CPU
