@@ -52,7 +52,9 @@ Additionly, I love digital painting, you can see my work in [My art work](https:
 - Detecting lane lines in bird view using FCN-based neural network architecture.
 - Tracking the lane lines by semi-dense direct visual odometry and Kalman Filter.
 
-<video src="https://youtu.be/BknVnDX1JVA" poster="src/lane_detection_poster.png" width="320" height="200" controls preload></video>
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="http://www.youtube.com/embed/BknVnDX1JVA?autoplay=1&origin=http://example.com"
+  frameborder="0"/>
 
 ### Glane-On-CPU
 - Project in Network Research Group, Microsoft Research Asia
