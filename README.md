@@ -5,10 +5,12 @@
 
 Hi, I'm Jiaxin. I'm currently an undergraduate student in Beijing, China. Specifically, I am interested in high-level, symbolic processes of **image recognition** and interpretation that accurately model the way people interact with the world.
 
-Besides, I also dive into the field of **networking** and **system**, now I am a research intern in the Network Research group of Microsoft Research Asia (MSRA). My CV is available on the left side (updated Dec 2018).
+Besides, I also dive into the field of **networking** and **system**, now I am a research intern in the Network Research group of Microsoft Research Asia (MSRA). My CV is available on the left side. 
+
+
 
 Additionly, I love digital painting, you can see my work in [My art work](https://photos.google.com/share/AF1QipOVooov5Zav8ADyYoYuFBqVz4_sWCLplyxZyXAuT9sFbsXajnxg6QTqWDu78W_3dw?key=X1d1X0RjSTZxdjJUcWJNTzBsaW9BZGRPb1JNMzBn)  :)
-
+- [Publication](#Publication)
 - [My Project](#my-project) 
   - [Free Virtual Piano System](#free-virtual-piano-system) 
   - [Mono 3D Detection](#mono-3d-detection) 
@@ -17,6 +19,11 @@ Additionly, I love digital painting, you can see my work in [My art work](https:
   - [Glane-On-CPU](#glane-on-cPU) 
 - [My artwork](#my-artwork) 
 
+## Publication
+
+- Updated in Jan 2019
+- (Submitted) Tuopu Wen, Jiaxin Lin, Chunlei Yun, Benny Wijaya, Kun Jiang and Diange Yang. Domain Adaptation for Lane Detection via Uniﬁed Bird-view Transformation. 2019 IEEE Intelligent Vehicles Symposium (IV’19)
+- (Submitted) Yang Cheng, Dan Li, Zhiyuan Guo, BinYao Jiang, Jiaxin Lin (…) DLBooster: Boosting End-to-End Deep Learning Workflow with Offloading Data Preprocessing Pipelines. 2019 USENIX Annual Technical Conference (ATC'19)
 
 ## My Project
 
