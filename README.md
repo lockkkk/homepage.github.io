@@ -3,8 +3,7 @@
 
 ## About me
 
-Hi, I'm Jiaxin Lin. I'm currently a graduate student at University of Wisconsin Madison, major in computer science. I was graduated in Beihang University, Beijing in 2019. I am now a part of the WISR Lab, and my advicer is Aditya Akella. Specifically, I am interested in **networking** and **system**, especially in data center network and SmartNIC design.
-
+Hi, I’m Jiaxin Lin. I’m currently a graduate student at the University of Wisconsin Madison, major in computer science. I was graduated from Beihang University, Beijing in 2019. I am now a part of the WISR Lab, and my adviser is Aditya Akella. Specifically, I am interested in **computer network** and **system**, especially in the Data Center network and SmartNIC design.
 
 Additionly, I love digital painting, you can see my home page in Pixiv below.
 - [Publication](#Publication)
