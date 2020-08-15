@@ -12,7 +12,7 @@ Additionly, I love digital painting, you can see my home page in Pixiv below.
 
 ## Publication
 
-- **Jiaxin Lin**, Kiran Patel, Brent Stephens, Anirudh Sivaraman, Aditya Akella: Frenzy: A Programmable High-Performance NIC for Multi-tenant Networks.14th USENIX Symposium on Operating Systems Design and Implementation (OSDI '20)
+- **Jiaxin Lin**, Kiran Patel, Brent Stephens, Anirudh Sivaraman, Aditya Akella. Frenzy: A Programmable High-Performance NIC for Multi-tenant Networks.14th USENIX Symposium on Operating Systems Design and Implementation (OSDI '20)
 
 - Yang Cheng, Dan Li, Zhiyuan Guo, BinYao Jiang, **Jiaxin Lin** (…) DLBooster: Boosting End-to-End Deep Learning Workflow with Offloading Data Preprocessing Pipelines. 48th International Conference on Parallel Processing (ICPP 2019)
 
